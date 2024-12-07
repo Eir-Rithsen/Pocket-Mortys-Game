@@ -33,6 +33,11 @@ Welcome to the console-based version of the **Pocket Mortys** game! This simplif
 
 ---
 
+### Customization Options
+Modify the initial roster of Mortys for Rick or the opponent by editing the startGame() function.
+Adjust the damage range in the battle() function for a different difficulty.
+
+---
 ## How to Run the Game
 
 ### Prerequisites
